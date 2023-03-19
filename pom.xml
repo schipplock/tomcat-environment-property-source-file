@@ -18,7 +18,7 @@ limitations under the License.
     <groupId>de.schipplock.web.tepsf</groupId>
     <artifactId>tomcat-environment-property-source-file</artifactId>
     <packaging>jar</packaging>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <name>Tomcat ENVironment Source</name>
     <description>Replace tomcat configuration values with values from environment</description>
     <url>https://github.com/schipplock/tomcat-environment-property-source-file</url>
